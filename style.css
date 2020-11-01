@@ -1,0 +1,36 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.div1 {
+  background-image: url(img/1.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.div3 {
+  background-image: url(img/2.JPG);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.div2 {
+  background-color: #f1c40f;
+  padding: 300px;
+  color: #fff;
+}
+.div4 {
+  background-color: #e74c3c;
+  padding: 300px;
+  color: #fff;
+}
+p {
+  font-size: 28px;
+}
+
